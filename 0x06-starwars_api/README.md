@@ -1,1 +1,1 @@
-Displaying and fetching data of STAR WARS API
+Working with Star Wars API
